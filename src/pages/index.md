@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Great coffee with a conscience Test
 image: /img/chris-lawton-zvkx6ixuhwq-unsplash-1.png
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
